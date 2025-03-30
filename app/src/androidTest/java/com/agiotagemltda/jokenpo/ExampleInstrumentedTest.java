@@ -1,4 +1,4 @@
-package com.agiotagemltda.jokenpoker;
+package com.agiotagemltda.jokenpo;
 
 import android.content.Context;
 

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.agiotagemltda.jokenpoker"
+    namespace = "com.agiotagemltda.jokenpo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.agiotagemltda.jokenpoker"
+        applicationId = "com.agiotagemltda.jokenpo"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
